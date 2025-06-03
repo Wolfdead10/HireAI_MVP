@@ -28,5 +28,9 @@ To learn more, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 
-https://github.com/user-attachments/assets/dc26450d-d7ed-4fac-93bd-3b63eb998d2a
+
+
+
+
+https://github.com/user-attachments/assets/e6d28df8-11fb-4b19-bbc7-b062b8ca7b72
 
